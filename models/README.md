@@ -1,0 +1,1 @@
+En este directorio vamos a crear los modelos que van a aescribir en la DB(Mongo)
